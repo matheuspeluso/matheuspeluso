@@ -22,4 +22,4 @@
 
 <br>
 
-Formado em Analise e desenvolvimento de sistema , atualmente venho cada vez mais me expecializando em Desenvolvimento Front-end, estudando React e Next.js!
+Formado em Analise e desenvolvimento de sistema , atualmente venho cada vez mais me expecializando em Desenvolvimento Front-end, estudando React.js!
