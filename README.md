@@ -8,8 +8,8 @@
 ![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspeluso&show_icons=true&theme=radical)
 
 
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspeluso&layout=compact&langs_count=7&theme=dracula"/>## Tecnologias que uso no meu dia 
+## Tecnologias que uso no meu dia 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspeluso&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"> <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
